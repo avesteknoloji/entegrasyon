@@ -1,2 +1,2 @@
-# entegrasyon
+# Pazaryeri Entegrasyon
 woocommerce, pazaryerleri entegrasyonu
